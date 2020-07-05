@@ -4,7 +4,7 @@ This is a boilerplate project used for starting a new project.
 
 ## Set up
 
-Complete the following stemps to stat a new project (NEW-PROJECT NAME):
+Complete the following steps to stat a new project (NEW-PROJECT NAME):
 
 1. Clone this repository to your local machine 'git clone BOILERPLATE-URL NEW-PROJECTS-NAME'
 2. 'cd' into cloned repository
